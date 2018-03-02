@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6478d008-4c16-4b19-9802-96698d7602bf" name="cursolaravel5" url="http://curso.laravel:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="55645beb-e671-4ede-984b-bcb5671b5f64" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1e5de42a-756e-4479-ae4d-c3e8c4d81634" name="xampp" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="053fc3cb-bf79-4d90-bc83-71bbf0c0ff4d" name="xampp (1)" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="61456523-4634-4dc2-8b5a-2b6af56ee40a" name="cursolaravel" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e6593086-a8c2-48ba-83ab-2bd8d706b42c" name="cursophp7" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
