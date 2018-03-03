@@ -19,6 +19,9 @@
       <webServer id="e6593086-a8c2-48ba-83ab-2bd8d706b42c" name="cursophp7" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5374802a-a01f-4f0c-a261-b1df2d84fc38" name="laravel55" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
